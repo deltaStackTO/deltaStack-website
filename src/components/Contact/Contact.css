@@ -1,0 +1,12 @@
+.Contact {
+  text-align: center;
+}
+
+
+@media (max-width: 320px) {
+  .Contact .card-link {
+    display: block;
+    width: 100%;
+    margin: 0 !important;
+  }
+}

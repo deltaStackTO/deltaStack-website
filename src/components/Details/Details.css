@@ -1,0 +1,8 @@
+.Details {
+  background: #d3f7ff;
+}
+
+.Details .card:hover {
+  transform: scale(1.02);
+  transition: transform 0.3s ease;
+}

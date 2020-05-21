@@ -1,0 +1,27 @@
+.Header {
+  text-align: center;
+  position: relative;
+}
+
+.Header img {
+  width: 50%;
+  margin: 0;
+  padding: 0;
+}
+
+.Header #see-more {
+  position: absolute;
+  bottom: 20px;
+  left: calc(50% - 34px);
+}
+
+.Header #down-arrow {
+  width: 25px;
+}
+
+@media (max-width: 768px) {
+  .Header h3 {
+    transform: scale(0.85);
+    padding-bottom: 4rem;
+  }
+}
