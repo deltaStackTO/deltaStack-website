@@ -9,11 +9,13 @@ function Header(props) {
       <header className="Header section">
         <div className="container py-5">
           <img src={ Logo } alt="logo" className="py-5"/>
-          
+
           <div className="mx-auto">
-            <h3>We build high quality software for businesses and companies.</h3>
+            <h3>We build high-quality software for businesses and companies.</h3>
           </div>
-          
+
+          <script src="scroll-down.js"></script>
+
           <div id="see-more" className="">
             <p className="my-0">See more</p>
             <img id="down-arrow" src={ Arrow } alt="down-arrow"/>
