@@ -1,6 +1,0 @@
-Sunday, June 28th, 2020:
-
-[] add FontAwesome icons (these are a bitch istg why's it so hard)
-[] Spice up our bios
-[] add the logo and name at the bottom of the page
-[] come up with one email for deltaStack
