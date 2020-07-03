@@ -16,9 +16,7 @@ function Contact(props) {
       <div className="Contact section">
         <div className="container py-5">
 
-          <h4 className="my-5">We would love to work with you!</h4>
-
-          <p className="my-5">Contact us if you are a company or business and need development done:</p>
+          <h4 className="my-5">Our team:</h4>
 
           <div className="my-5">
             <div className="row">
@@ -43,8 +41,7 @@ function Contact(props) {
                     <h5 className="card-title">Danny Ngo</h5>
                     <h6 className="card-subtitle mb-2 text-muted">Co-Founder</h6>
                     <p className="card-text">
-                      A 4th year computer science student and dancer at
-                      Queen's University with experience working for RBC.
+                      Software developer at RBC with experience in web development and product management. Previously doing ful stack development for startups and local businesses, and leading tech teams and architecturing software for Beta Lab.
                     </p>
                     <span className="card-link"><a href="mailto:dannyngo.1199@gmail.com"><FontAwesomeIcon icon={faEnvelope} size="lg" /></a></span>
                     <a href="https://www.linkedin.com/in/dannyngo1199/" className="card-link"><FontAwesomeIcon icon={faLinkedin} size="lg" /></a>
@@ -54,8 +51,11 @@ function Contact(props) {
 
             </div>
           </div>
+          <br/>
+          <h5 className="my-5">We would love to work with you!</h5>
 
-          <br/><br/><br/>
+          <p className="my-5">Contact us if you are a company or business and need development done.</p>
+          <br/><br/>
           <div className="my-5">
             <h5>Interested in our future work? Give us a follow on <a href="https://www.linkedin.com/company/deltastackpage/">LinkedIn</a>!</h5>
           </div>
