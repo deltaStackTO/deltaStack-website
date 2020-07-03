@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/deltaStack-website/static/css/main.e19e082f.chunk.css",
-    "main.js": "/deltaStack-website/static/js/main.4afb36cb.chunk.js",
-    "main.js.map": "/deltaStack-website/static/js/main.4afb36cb.chunk.js.map",
-    "runtime-main.js": "/deltaStack-website/static/js/runtime-main.ffbfe89e.js",
-    "runtime-main.js.map": "/deltaStack-website/static/js/runtime-main.ffbfe89e.js.map",
-    "static/js/2.9d564f0a.chunk.js": "/deltaStack-website/static/js/2.9d564f0a.chunk.js",
-    "static/js/2.9d564f0a.chunk.js.map": "/deltaStack-website/static/js/2.9d564f0a.chunk.js.map",
-    "index.html": "/deltaStack-website/index.html",
-    "precache-manifest.6ca1e114db0a81d998c07965704f277b.js": "/deltaStack-website/precache-manifest.6ca1e114db0a81d998c07965704f277b.js",
-    "service-worker.js": "/deltaStack-website/service-worker.js",
-    "static/css/main.e19e082f.chunk.css.map": "/deltaStack-website/static/css/main.e19e082f.chunk.css.map",
-    "static/js/2.9d564f0a.chunk.js.LICENSE.txt": "/deltaStack-website/static/js/2.9d564f0a.chunk.js.LICENSE.txt",
-    "static/media/deltaStack_logo.png": "/deltaStack-website/static/media/deltaStack_logo.3eea9238.png",
-    "static/media/pointing.svg": "/deltaStack-website/static/media/pointing.7da2026c.svg"
+    "main.css": "/static/css/main.e19e082f.chunk.css",
+    "main.js": "/static/js/main.0a53e36b.chunk.js",
+    "main.js.map": "/static/js/main.0a53e36b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b02ca2b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b02ca2b7.js.map",
+    "static/js/2.9d564f0a.chunk.js": "/static/js/2.9d564f0a.chunk.js",
+    "static/js/2.9d564f0a.chunk.js.map": "/static/js/2.9d564f0a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0b5a1f0d7e5ae45fa4a93c0800313410.js": "/precache-manifest.0b5a1f0d7e5ae45fa4a93c0800313410.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e19e082f.chunk.css.map": "/static/css/main.e19e082f.chunk.css.map",
+    "static/js/2.9d564f0a.chunk.js.LICENSE.txt": "/static/js/2.9d564f0a.chunk.js.LICENSE.txt",
+    "static/media/deltaStack_logo.png": "/static/media/deltaStack_logo.3eea9238.png",
+    "static/media/pointing.svg": "/static/media/pointing.7da2026c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffbfe89e.js",
+    "static/js/runtime-main.b02ca2b7.js",
     "static/js/2.9d564f0a.chunk.js",
     "static/css/main.e19e082f.chunk.css",
-    "static/js/main.4afb36cb.chunk.js"
+    "static/js/main.0a53e36b.chunk.js"
   ]
 }
