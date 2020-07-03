@@ -41,7 +41,7 @@ function Contact(props) {
                     <h5 className="card-title">Danny Ngo</h5>
                     <h6 className="card-subtitle mb-2 text-muted">Co-Founder</h6>
                     <p className="card-text">
-                      Software developer at RBC with experience in web development and product management. Previously doing ful stack development for startups and local businesses, and leading tech teams and architecturing software for Beta Lab.
+                      Software developer at RBC with experience in web development and product management. Previously doing full stack development for startups and local businesses, and leading tech teams and architecturing software for Beta Lab.
                     </p>
                     <span className="card-link"><a href="mailto:dannyngo.1199@gmail.com"><FontAwesomeIcon icon={faEnvelope} size="lg" /></a></span>
                     <a href="https://www.linkedin.com/in/dannyngo1199/" className="card-link"><FontAwesomeIcon icon={faLinkedin} size="lg" /></a>

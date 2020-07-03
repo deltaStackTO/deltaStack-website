@@ -15,7 +15,7 @@ function Details(props) {
                 <div className="card my-3">
                   <img src="coding2.jpg" className="card-img-top" alt="..."/>
                   <div className="card-body">
-                    <h5 className="card-title">Fullstack Development</h5>
+                    <h5 className="card-title">Full Stack Development</h5>
                     <p className="card-text">
                       We do everything from planning backend architecture to user interface creation,
                       to deployment.
